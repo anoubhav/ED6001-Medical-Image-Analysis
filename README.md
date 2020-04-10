@@ -1,3 +1,6 @@
+## Objective
+The objective of this project is to perform **multi-label image classification** on a medical image dataset using popular deep learning architectures. We detect acute intracranial hemorrhage and its subtypes. The dataset is provided by the Radiological Society of North America(RSNA) on Kaggle.
+
 ## Perform the following steps in the given order:
 ### Option 1 (Run on Kaggle; simpler):
 - Create a kaggle account and click on the link to open the notebook containing the code used for the project. This comes with the dependencies installed as well as the data is loaded already in the backend. Using this method will ensure no file handling errors. [Kaggle notebook](https://www.kaggle.com/anoubhav2198/mia-project-code)
